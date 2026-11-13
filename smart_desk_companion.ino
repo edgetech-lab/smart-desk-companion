@@ -18,10 +18,10 @@
 struct SwTile;
 
 // ------------------------- USER SETTINGS -----------------------------
-#define WIFI_SSID      "Airtel_Conference wifi"
-#define WIFI_PASS      "Conference@8888"
+#define WIFI_SSID      "YOUR_WIFI_NAME"
+#define WIFI_PASS      "YOUR_WIFI_PASSWORD"
 
-#define LOCATION_NAME  "Digdoh, Nagpur"
+#define LOCATION_NAME  "Place, City"
 #define WX_LAT         21.10      // apna exact lat/lon Google Maps se daal lena
 #define WX_LON         79.00
 
